@@ -1,0 +1,2775 @@
+2024-10-30 19:30:30,240 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 19:30:30,244 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 19:30:30,262 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-10-30 19:34:05,238 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 19:34:05,242 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 19:34:05,259 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-10-30 19:35:29,093 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\BOLAP2_TSI6045_20241001103106507_7670308.txt
+--------------------------------------------------
+
+2024-10-30 19:35:30,564 - __main__ - INFO - Starting rename_file for blob: BOLAP2_TSI6045_20241001103106507_7670308.txt
+--------------------------------------------------
+
+2024-10-30 19:35:31,036 - blob - INFO - Downloaded file BOLAP2_TSI6045_20241001103106507_7670308.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 19:35:31,719 - __main__ - INFO - Renamed and uploaded file: BOLAP2_TSI6045_20241001103106507_7670308.txt to BOL_TSI6045_AP2_202410301935311274.txt
+--------------------------------------------------
+
+2024-10-30 19:35:32,065 - __main__ - INFO - Starting process_files_group with files: {'BOL': [{'_id': 3435, 'CustomerId': 'TSI6045', 'CarrierId': 'AP2', 'OriginalFileName': 'BOLAP2_TSI6045_20241001103106507_7670308.txt', 'NewFileName': 'BOL_TSI6045_AP2_202410301935311274.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-10-30 19:35:40,594 - __main__ - INFO - Successfully processed files: [{'_id': 3435, 'CustomerId': 'TSI6045', 'CarrierId': 'AP2', 'OriginalFileName': 'BOLAP2_TSI6045_20241001103106507_7670308.txt', 'NewFileName': 'BOL_TSI6045_AP2_202410301935311274.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2286}] for file type: BOL
+--------------------------------------------------
+
+2024-10-30 19:36:51,902 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\BOLAP2_TSI6045_20241001103106507_7670308.txt
+--------------------------------------------------
+
+2024-10-30 19:36:53,828 - __main__ - INFO - Starting rename_file for blob: BOLAP2_TSI6045_20241001103106507_7670308.txt
+--------------------------------------------------
+
+2024-10-30 19:36:54,294 - blob - INFO - Downloaded file BOLAP2_TSI6045_20241001103106507_7670308.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 19:36:54,806 - __main__ - INFO - Renamed and uploaded file: BOLAP2_TSI6045_20241001103106507_7670308.txt to BOL_TSI6045_AP2_202410301936543792.txt
+--------------------------------------------------
+
+2024-10-30 19:36:55,080 - __main__ - INFO - Starting process_files_group with files: {'BOL': [{'_id': 3436, 'CustomerId': 'TSI6045', 'CarrierId': 'AP2', 'OriginalFileName': 'BOLAP2_TSI6045_20241001103106507_7670308.txt', 'NewFileName': 'BOL_TSI6045_AP2_202410301936543792.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-10-30 19:37:00,395 - __main__ - INFO - Successfully processed files: [{'_id': 3436, 'CustomerId': 'TSI6045', 'CarrierId': 'AP2', 'OriginalFileName': 'BOLAP2_TSI6045_20241001103106507_7670308.txt', 'NewFileName': 'BOL_TSI6045_AP2_202410301936543792.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2287}] for file type: BOL
+--------------------------------------------------
+
+2024-10-30 19:39:24,030 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\BOLAP2_TSI6045_20241001103106507_7670308.txt
+--------------------------------------------------
+
+2024-10-30 19:39:25,225 - __main__ - INFO - Starting rename_file for blob: BOLAP2_TSI6045_20241001103106507_7670308.txt
+--------------------------------------------------
+
+2024-10-30 19:39:25,690 - blob - INFO - Downloaded file BOLAP2_TSI6045_20241001103106507_7670308.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 19:39:26,256 - __main__ - INFO - Renamed and uploaded file: BOLAP2_TSI6045_20241001103106507_7670308.txt to BOL_TSI6045_AP2_202410301939257844.txt
+--------------------------------------------------
+
+2024-10-30 19:39:26,607 - __main__ - INFO - Starting process_files_group with files: {'BOL': [{'_id': 3437, 'CustomerId': 'TSI6045', 'CarrierId': 'AP2', 'OriginalFileName': 'BOLAP2_TSI6045_20241001103106507_7670308.txt', 'NewFileName': 'BOL_TSI6045_AP2_202410301939257844.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-10-30 19:39:34,072 - __main__ - INFO - Successfully processed files: [{'_id': 3437, 'CustomerId': 'TSI6045', 'CarrierId': 'AP2', 'OriginalFileName': 'BOLAP2_TSI6045_20241001103106507_7670308.txt', 'NewFileName': 'BOL_TSI6045_AP2_202410301939257844.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2288}] for file type: BOL
+--------------------------------------------------
+
+2024-10-30 22:07:01,347 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 22:07:01,348 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 22:07:01,354 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-10-30 22:07:34,881 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 22:07:34,882 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-10-30 22:07:34,889 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-10-30 22:10:10,818 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-10-30 22:10:11,053 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\BOLCASX_TSI5753_20241007033047626_7707686.txt
+--------------------------------------------------
+
+2024-10-30 22:10:11,291 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\hallstar_input.txt
+--------------------------------------------------
+
+2024-10-30 22:10:12,633 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-10-30 22:10:12,637 - __main__ - INFO - Starting rename_file for blob: BOLCASX_TSI5753_20241007033047626_7707686.txt
+--------------------------------------------------
+
+2024-10-30 22:10:12,639 - __main__ - INFO - Starting rename_file for blob: hallstar_input.txt
+--------------------------------------------------
+
+2024-10-30 22:10:13,315 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 22:10:13,611 - blob - INFO - Downloaded file BOLCASX_TSI5753_20241007033047626_7707686.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 22:10:13,617 - blob - INFO - Downloaded file hallstar_input.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 22:10:14,054 - __main__ - INFO - Renamed and uploaded file: BOLCASX_TSI5753_20241007033047626_7707686.txt to BOL_TSI5753_CASX_202410302210136130.txt
+--------------------------------------------------
+
+2024-10-30 22:10:14,090 - __main__ - INFO - Renamed and uploaded file: hallstar_input.txt to PO_nVISION_5986_202410302210136613.txt
+--------------------------------------------------
+
+2024-10-30 22:10:14,665 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202410302210133562.txt
+--------------------------------------------------
+
+2024-10-30 22:10:14,943 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3440, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202410302210133562.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}], 'BOL': [{'_id': 3441, 'CustomerId': 'TSI5753', 'CarrierId': 'CASX', 'OriginalFileName': 'BOLCASX_TSI5753_20241007033047626_7707686.txt', 'NewFileName': 'BOL_TSI5753_CASX_202410302210136130.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}], 'PO': [{'_id': 3442, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'hallstar_input.txt', 'NewFileName': 'PO_nVISION_5986_202410302210136613.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-10-30 22:10:16,430 - __main__ - ERROR - Failed API call with response code 500 for file type: BOL and files: [{'_id': 3441, 'CustomerId': 'TSI5753', 'CarrierId': 'CASX', 'OriginalFileName': 'BOLCASX_TSI5753_20241007033047626_7707686.txt', 'NewFileName': 'BOL_TSI5753_CASX_202410302210136130.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2292}]
+--------------------------------------------------
+
+2024-10-30 22:10:16,448 - __main__ - ERROR - Failed API call with response code 500 for file type: PO and files: [{'_id': 3442, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'hallstar_input.txt', 'NewFileName': 'PO_nVISION_5986_202410302210136613.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}, {'JobDetailID': 2293}]
+--------------------------------------------------
+
+2024-10-30 22:10:17,477 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3440, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202410302210133562.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2291}]
+--------------------------------------------------
+
+2024-10-30 22:21:05,972 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-10-30 22:21:06,205 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\BOLCASX_TSI5753_20241007033047626_7707686.txt
+--------------------------------------------------
+
+2024-10-30 22:21:06,442 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\hallstar_input.txt
+--------------------------------------------------
+
+2024-10-30 22:21:07,868 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-10-30 22:21:07,871 - __main__ - INFO - Starting rename_file for blob: BOLCASX_TSI5753_20241007033047626_7707686.txt
+--------------------------------------------------
+
+2024-10-30 22:21:07,873 - __main__ - INFO - Starting rename_file for blob: hallstar_input.txt
+--------------------------------------------------
+
+2024-10-30 22:21:08,614 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 22:21:08,806 - blob - INFO - Downloaded file BOLCASX_TSI5753_20241007033047626_7707686.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 22:21:09,035 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202410302221086562.txt
+--------------------------------------------------
+
+2024-10-30 22:21:09,089 - blob - INFO - Downloaded file hallstar_input.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-10-30 22:21:09,154 - __main__ - INFO - Renamed and uploaded file: BOLCASX_TSI5753_20241007033047626_7707686.txt to BOL_TSI5753_CASX_202410302221088075.txt
+--------------------------------------------------
+
+2024-10-30 22:21:09,482 - __main__ - INFO - Renamed and uploaded file: hallstar_input.txt to PO_nVISION_5986_202410302221091318.txt
+--------------------------------------------------
+
+2024-10-30 22:21:09,766 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3443, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202410302221086562.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}], 'BOL': [{'_id': 3444, 'CustomerId': 'TSI5753', 'CarrierId': 'CASX', 'OriginalFileName': 'BOLCASX_TSI5753_20241007033047626_7707686.txt', 'NewFileName': 'BOL_TSI5753_CASX_202410302221088075.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}], 'PO': [{'_id': 3445, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'hallstar_input.txt', 'NewFileName': 'PO_nVISION_5986_202410302221091318.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-10-30 22:21:12,316 - __main__ - INFO - Successfully processed files: [{'_id': 3444, 'CustomerId': 'TSI5753', 'CarrierId': 'CASX', 'OriginalFileName': 'BOLCASX_TSI5753_20241007033047626_7707686.txt', 'NewFileName': 'BOL_TSI5753_CASX_202410302221088075.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2295}] for file type: BOL
+--------------------------------------------------
+
+2024-10-30 22:21:12,944 - __main__ - INFO - Successfully processed files: [{'_id': 3445, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'hallstar_input.txt', 'NewFileName': 'PO_nVISION_5986_202410302221091318.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}, {'JobDetailID': 2296}] for file type: PO
+--------------------------------------------------
+
+2024-10-30 22:21:13,834 - __main__ - INFO - Successfully processed files: [{'_id': 3443, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202410302221086562.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2294}] for file type: 110
+--------------------------------------------------
+
+2024-11-07 04:44:00,396 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:44:00,401 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:44:00,466 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 04:48:40,316 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:48:40,318 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:48:40,380 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 04:48:52,246 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_6067_BOL_Trailer_20241105.txt
+--------------------------------------------------
+
+2024-11-07 04:48:54,261 - __main__ - INFO - Starting rename_file for blob: 20241105_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 04:48:54,505 - blob - INFO - Downloaded file 20241105_Trailer.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 04:52:30,670 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:52:30,673 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:52:30,735 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 04:53:54,286 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_6067_BOL_Trailer_20241105.txt
+--------------------------------------------------
+
+2024-11-07 04:53:56,376 - __main__ - INFO - Starting rename_file for blob: 20241105_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 04:53:56,613 - blob - INFO - Downloaded file 20241105_Trailer.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 04:54:06,746 - __main__ - INFO - Error Occured while renaming the file 20241105_Trailer.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2470, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 853, in _update
+    return self._update(
+           ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 806, in _update
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\helpers.py", line 342, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\pool.py", line 989, in command
+    return command(
+           ^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\network.py", line 212, in command
+    helpers._check_command_response(
+  File "D:\venv\Lib\site-packages\pymongo\helpers.py", line 248, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: command update requires authentication, full error: {'ok': 0.0, 'errmsg': 'command update requires authentication', 'code': 13, 'codeName': 'Unauthorized'}
+
+--------------------------------------------------
+
+2024-11-07 04:57:42,467 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_6067_BOL_Trailer_20241105.txt
+--------------------------------------------------
+
+2024-11-07 04:57:44,528 - __main__ - INFO - Starting rename_file for blob: 20241105_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 04:57:44,832 - blob - INFO - Downloaded file 20241105_Trailer.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 04:57:44,939 - __main__ - INFO - Error Occured while renaming the file 20241105_Trailer.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2470, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 853, in _update
+    return self._update(
+           ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 806, in _update
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\helpers.py", line 342, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\pool.py", line 989, in command
+    return command(
+           ^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\network.py", line 212, in command
+    helpers._check_command_response(
+  File "D:\venv\Lib\site-packages\pymongo\helpers.py", line 248, in _check_command_response
+    raise OperationFailure(errmsg, code, response, max_wire_version)
+pymongo.errors.OperationFailure: command update requires authentication, full error: {'ok': 0.0, 'errmsg': 'command update requires authentication', 'code': 13, 'codeName': 'Unauthorized'}
+
+--------------------------------------------------
+
+2024-11-07 04:58:31,930 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:58:31,932 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 04:58:31,992 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 04:59:55,579 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_6067_BOL_Trailer_20241105.txt
+--------------------------------------------------
+
+2024-11-07 04:59:57,976 - __main__ - INFO - Starting rename_file for blob: 20241105_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 04:59:58,279 - blob - INFO - Downloaded file 20241105_Trailer.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 04:59:59,385 - __main__ - INFO - Renamed and uploaded file: 20241105_Trailer.txt to BOL_6067__Trailer_202411070459582820.txt
+--------------------------------------------------
+
+2024-11-07 04:59:59,890 - __main__ - INFO - Starting process_files_group with files: {'BOL': [{'_id': 3688, 'CustomerId': '6067', 'CarrierId': '', 'OriginalFileName': '20241105_Trailer.txt', 'NewFileName': 'BOL_6067__Trailer_202411070459582820.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 05:00:01,248 - __main__ - ERROR - Failed API call with response code 500 for file type: BOL and files: [{'_id': 3688, 'CustomerId': '6067', 'CarrierId': '', 'OriginalFileName': '20241105_Trailer.txt', 'NewFileName': 'BOL_6067__Trailer_202411070459582820.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2445}]
+--------------------------------------------------
+
+2024-11-07 05:08:30,434 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_TSI6022_BOL_SP_20240328_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 05:08:30,745 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_TSI6067_BOL_Trailer_20241105.txt
+--------------------------------------------------
+
+2024-11-07 05:09:07,239 - __main__ - INFO - Starting rename_file for blob: Trailer_20240328.txt
+--------------------------------------------------
+
+2024-11-07 05:09:28,308 - blob - INFO - Downloaded file Trailer_20240328.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 05:09:35,089 - __main__ - INFO - Renamed and uploaded file: Trailer_20240328.txt to BOL_TSI6022__SP_202411070509316808.txt
+--------------------------------------------------
+
+2024-11-07 05:09:35,399 - __main__ - INFO - Starting process_files_group with files: {'BOL': [{'_id': 3689, 'CustomerId': 'TSI6022', 'CarrierId': '', 'OriginalFileName': 'Trailer_20240328.txt', 'NewFileName': 'BOL_TSI6022__SP_202411070509316808.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 05:14:12,625 - __main__ - INFO - Successfully processed files: [{'_id': 3689, 'CustomerId': 'TSI6022', 'CarrierId': '', 'OriginalFileName': 'Trailer_20240328.txt', 'NewFileName': 'BOL_TSI6022__SP_202411070509316808.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2446}] for file type: BOL
+--------------------------------------------------
+
+2024-11-07 05:15:24,376 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_TSI6067_BOL_Trailer_20241105.txt
+--------------------------------------------------
+
+2024-11-07 05:15:26,438 - __main__ - INFO - Starting rename_file for blob: 20241105_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 05:15:26,736 - blob - INFO - Downloaded file 20241105_Trailer.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 05:15:27,145 - __main__ - INFO - Renamed and uploaded file: 20241105_Trailer.txt to BOL_TSI6067__Trailer_202411070515267380.txt
+--------------------------------------------------
+
+2024-11-07 05:15:27,550 - __main__ - INFO - Starting process_files_group with files: {'BOL': [{'_id': 3690, 'CustomerId': 'TSI6067', 'CarrierId': '', 'OriginalFileName': '20241105_Trailer.txt', 'NewFileName': 'BOL_TSI6067__Trailer_202411070515267380.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 05:15:32,491 - __main__ - INFO - Successfully processed files: [{'_id': 3690, 'CustomerId': 'TSI6067', 'CarrierId': '', 'OriginalFileName': '20241105_Trailer.txt', 'NewFileName': 'BOL_TSI6067__Trailer_202411070515267380.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2447}] for file type: BOL
+--------------------------------------------------
+
+2024-11-07 05:16:46,745 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_TSI6022_BOL_SP_20240328_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 05:16:47,020 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\_TSI6067_BOL_Trailer_20241105.txt
+--------------------------------------------------
+
+2024-11-07 05:17:12,461 - __main__ - INFO - Starting rename_file for blob: 20241105_Trailer.txt
+--------------------------------------------------
+
+2024-11-07 05:17:12,472 - __main__ - INFO - Starting rename_file for blob: Trailer_20240328.txt
+--------------------------------------------------
+
+2024-11-07 05:17:12,723 - blob - INFO - Downloaded file 20241105_Trailer.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 05:17:13,435 - __main__ - INFO - Renamed and uploaded file: 20241105_Trailer.txt to BOL_TSI6067__Trailer_202411070517127266.txt
+--------------------------------------------------
+
+2024-11-07 05:17:35,319 - blob - INFO - Downloaded file Trailer_20240328.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 05:17:42,201 - __main__ - INFO - Renamed and uploaded file: Trailer_20240328.txt to BOL_TSI6022__SP_202411070517386649.txt
+--------------------------------------------------
+
+2024-11-07 05:17:42,512 - __main__ - INFO - Starting process_files_group with files: {'BOL': [{'_id': 3691, 'CustomerId': 'TSI6067', 'CarrierId': '', 'OriginalFileName': '20241105_Trailer.txt', 'NewFileName': 'BOL_TSI6067__Trailer_202411070517127266.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'_id': 3692, 'CustomerId': 'TSI6022', 'CarrierId': '', 'OriginalFileName': 'Trailer_20240328.txt', 'NewFileName': 'BOL_TSI6022__SP_202411070517386649.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 05:21:11,801 - __main__ - INFO - Successfully processed files: [{'_id': 3691, 'CustomerId': 'TSI6067', 'CarrierId': '', 'OriginalFileName': '20241105_Trailer.txt', 'NewFileName': 'BOL_TSI6067__Trailer_202411070517127266.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'_id': 3692, 'CustomerId': 'TSI6022', 'CarrierId': '', 'OriginalFileName': 'Trailer_20240328.txt', 'NewFileName': 'BOL_TSI6022__SP_202411070517386649.txt', 'Status': 0, 'FileType': 'BOL', 'OutputFileName': ''}, {'JobDetailID': 2448}] for file type: BOL
+--------------------------------------------------
+
+2024-11-07 07:36:29,916 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\PO_nVISION_5986_202411052127505319.txt
+--------------------------------------------------
+
+2024-11-07 07:36:31,493 - __main__ - INFO - Starting rename_file for blob: PO_nVISION_5986_202411052127505319.txt
+--------------------------------------------------
+
+2024-11-07 07:36:31,775 - blob - INFO - Downloaded file PO_nVISION_5986_202411052127505319.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 07:36:32,798 - __main__ - INFO - Renamed and uploaded file: PO_nVISION_5986_202411052127505319.txt to PO_nVISION_5986_202411070736317779.txt
+--------------------------------------------------
+
+2024-11-07 07:36:33,148 - __main__ - INFO - Starting process_files_group with files: {'PO': [{'_id': 3693, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'PO_nVISION_5986_202411052127505319.txt', 'NewFileName': 'PO_nVISION_5986_202411070736317779.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 07:36:39,855 - __main__ - ERROR - Failed API call with response code 500 for file type: PO and files: [{'_id': 3693, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'PO_nVISION_5986_202411052127505319.txt', 'NewFileName': 'PO_nVISION_5986_202411070736317779.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}, {'JobDetailID': 2449}]
+--------------------------------------------------
+
+2024-11-07 07:39:03,501 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\PO_nVISION_5986_202411052127505319.txt
+--------------------------------------------------
+
+2024-11-07 07:39:04,839 - __main__ - INFO - Starting rename_file for blob: PO_nVISION_5986_202411052127505319.txt
+--------------------------------------------------
+
+2024-11-07 07:39:05,091 - blob - INFO - Downloaded file PO_nVISION_5986_202411052127505319.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 07:39:05,594 - __main__ - INFO - Renamed and uploaded file: PO_nVISION_5986_202411052127505319.txt to PO_nVISION_5986_202411070739050938.txt
+--------------------------------------------------
+
+2024-11-07 07:39:06,066 - __main__ - INFO - Starting process_files_group with files: {'PO': [{'_id': 3694, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'PO_nVISION_5986_202411052127505319.txt', 'NewFileName': 'PO_nVISION_5986_202411070739050938.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 07:39:11,352 - __main__ - INFO - Successfully processed files: [{'_id': 3694, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'PO_nVISION_5986_202411052127505319.txt', 'NewFileName': 'PO_nVISION_5986_202411070739050938.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}, {'JobDetailID': 2450}] for file type: PO
+--------------------------------------------------
+
+2024-11-07 07:45:11,487 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\PO_nVISION_5986_202411052127505319.txt
+--------------------------------------------------
+
+2024-11-07 07:45:12,825 - __main__ - INFO - Starting rename_file for blob: PO_nVISION_5986_202411052127505319.txt
+--------------------------------------------------
+
+2024-11-07 07:45:13,068 - blob - INFO - Downloaded file PO_nVISION_5986_202411052127505319.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 07:45:13,474 - __main__ - INFO - Renamed and uploaded file: PO_nVISION_5986_202411052127505319.txt to PO_nVISION_5986_202411070745130705.txt
+--------------------------------------------------
+
+2024-11-07 07:45:13,787 - __main__ - INFO - Starting process_files_group with files: {'PO': [{'_id': 3695, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'PO_nVISION_5986_202411052127505319.txt', 'NewFileName': 'PO_nVISION_5986_202411070745130705.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 07:45:19,141 - __main__ - INFO - Successfully processed files: [{'_id': 3695, 'CustomerId': 'nVISION', 'CarrierId': '5986', 'OriginalFileName': 'PO_nVISION_5986_202411052127505319.txt', 'NewFileName': 'PO_nVISION_5986_202411070745130705.txt', 'Status': 0, 'FileType': 'PO', 'OutputFileName': ''}, {'JobDetailID': 2451}] for file type: PO
+--------------------------------------------------
+
+2024-11-07 08:03:23,045 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:03:24,281 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:03:25,214 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 08:03:25,622 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202411070803252545.txt
+--------------------------------------------------
+
+2024-11-07 08:03:25,972 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3696, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070803252545.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 08:03:30,258 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3696, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070803252545.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2452}]
+--------------------------------------------------
+
+2024-11-07 08:05:54,248 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:05:55,419 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:05:56,168 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 08:05:56,824 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202411070805562091.txt
+--------------------------------------------------
+
+2024-11-07 08:05:57,162 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3697, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070805562091.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 08:06:01,413 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3697, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070805562091.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2453}]
+--------------------------------------------------
+
+2024-11-07 08:09:38,429 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:09:39,681 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:09:40,380 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 08:09:41,446 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202411070809404179.txt
+--------------------------------------------------
+
+2024-11-07 08:09:41,763 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3698, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070809404179.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 08:09:47,452 - __main__ - INFO - Successfully processed files: [{'_id': 3698, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070809404179.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2454}] for file type: 110
+--------------------------------------------------
+
+2024-11-07 08:17:00,580 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:17:01,786 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:17:02,705 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 08:17:03,704 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202411070817027457.txt
+--------------------------------------------------
+
+2024-11-07 08:17:04,050 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3699, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070817027457.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 08:30:09,135 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 08:30:09,137 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 08:30:09,191 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 08:31:33,328 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:31:34,556 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:31:35,278 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 08:31:35,996 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202411070831353172.txt
+--------------------------------------------------
+
+2024-11-07 08:31:36,270 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3700, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070831353172.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 08:43:26,483 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 08:43:26,486 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 08:43:26,538 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 08:46:02,933 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:46:04,271 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:46:05,100 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 08:46:06,367 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202411070846051395.txt
+--------------------------------------------------
+
+2024-11-07 08:46:06,780 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3701, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070846051395.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 08:46:37,781 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3701, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070846051395.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2457}]
+--------------------------------------------------
+
+2024-11-07 08:49:01,830 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:49:03,112 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt
+--------------------------------------------------
+
+2024-11-07 08:49:04,165 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 08:49:04,673 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt to 110_TSI4758_UN03_202411070849042049.txt
+--------------------------------------------------
+
+2024-11-07 08:49:04,977 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3702, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244286410_041724_V2.txt', 'NewFileName': '110_TSI4758_UN03_202411070849042049.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 15:07:18,286 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 15:07:18,291 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 15:07:18,372 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 15:09:56,624 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:09:59,097 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:09:59,690 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 15:10:01,110 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411071509597023.txt
+--------------------------------------------------
+
+2024-11-07 15:10:01,425 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3733, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411071509597023.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 15:10:11,435 - __main__ - INFO - Successfully processed files: [{'_id': 3733, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411071509597023.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2477}] for file type: 110
+--------------------------------------------------
+
+2024-11-07 15:13:48,473 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:13:50,739 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:13:51,260 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 15:13:51,798 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411071513512712.txt
+--------------------------------------------------
+
+2024-11-07 15:13:52,172 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3736, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411071513512712.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 15:47:32,478 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 15:47:32,481 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 15:47:32,534 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 15:48:56,420 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:48:57,766 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:48:58,560 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 15:49:28,785 - __main__ - INFO - Error Occured while renaming the file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Unknown, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 15:53:05,544 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:53:06,775 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 15:53:07,253 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 15:53:08,868 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411071553072616.txt
+--------------------------------------------------
+
+2024-11-07 15:53:09,236 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3756, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411071553072616.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 15:53:11,579 - __main__ - ERROR - Error processing files: [{'_id': 3756, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411071553072616.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2492}] for file type: 110: Cannot connect to host 127.0.0.1:8006 ssl:default [The remote computer refused the network connection]
+--------------------------------------------------
+
+2024-11-07 19:09:42,709 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_2024101010301176_7743506.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,722 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_2024101210315757_7758689.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,738 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241015103144300_7785629.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,754 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241026103037641_7873875.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,766 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241029113044236_7904192.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,777 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241101113012343_7930091.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,790 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241102113014242_7936389.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,809 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241105123011913_7960318.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,822 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241106113032166_7970214.txt
+--------------------------------------------------
+
+2024-11-07 19:09:42,835 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241107113044494_7980359.txt
+--------------------------------------------------
+
+2024-11-07 19:09:43,006 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_2024101010301176_7743506.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,700 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241026103037641_7873875.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,719 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_2024101210315757_7758689.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,864 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241102113014242_7936389.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,867 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241101113012343_7930091.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,883 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241106113032166_7970214.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,887 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241107113044494_7980359.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,915 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241015103144300_7785629.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:43,926 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241029113044236_7904192.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:09:44,048 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241105123011913_7960318.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:10:13,254 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_2024101010301176_7743506.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:13,769 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241026103037641_7873875.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:13,780 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_2024101210315757_7758689.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:14,288 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241029113044236_7904192.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:14,300 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241015103144300_7785629.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:14,312 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241101113012343_7930091.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:14,326 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241106113032166_7970214.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:14,338 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241102113014242_7936389.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:14,351 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241105123011913_7960318.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:10:14,363 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241107113044494_7980359.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:16:15,214 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241015103144300_7785629.txt
+--------------------------------------------------
+
+2024-11-07 19:16:15,714 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241015103144300_7785629.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:16:45,803 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241015103144300_7785629.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:25:13,984 - __main__ - INFO - Starting rename_file for blob: BOLTSI3992_TSI3992_20241107113044494_7980359.txt
+--------------------------------------------------
+
+2024-11-07 19:25:14,245 - blob - INFO - Downloaded file BOLTSI3992_TSI3992_20241107113044494_7980359.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:25:44,603 - __main__ - INFO - Error Occured while renaming the file BOLTSI3992_TSI3992_20241107113044494_7980359.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672c93bc0998b44ca91f00c6, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 19:29:01,400 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 19:29:01,403 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 19:29:01,480 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 19:30:25,236 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 19:30:26,981 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 19:30:27,466 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:30:28,602 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411071930274767.txt
+--------------------------------------------------
+
+2024-11-07 19:30:28,921 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3817, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411071930274767.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 19:49:24,680 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 19:49:24,682 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 19:49:24,755 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 19:54:25,559 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 19:54:26,868 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 19:54:27,384 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 19:54:28,779 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411071954273954.txt
+--------------------------------------------------
+
+2024-11-07 19:54:29,187 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3820, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411071954273954.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 20:04:43,090 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 20:04:43,094 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 20:04:43,176 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 20:06:06,862 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:06:08,188 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:06:08,671 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 20:06:09,418 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072006086821.txt
+--------------------------------------------------
+
+2024-11-07 20:06:09,697 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3822, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072006086821.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 20:08:18,801 - __main__ - ERROR - Error processing files: [{'_id': 3822, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072006086821.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2543}] for file type: 110: [WinError 64] The specified network name is no longer available
+--------------------------------------------------
+
+2024-11-07 20:09:24,839 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 20:09:24,842 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 20:09:24,906 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 20:09:36,378 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:09:37,648 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:09:38,274 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 20:09:39,467 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072009382838.txt
+--------------------------------------------------
+
+2024-11-07 20:09:39,768 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3823, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072009382838.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 20:15:16,671 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 20:15:16,673 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 20:15:16,741 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 20:16:40,430 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:16:41,714 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:16:42,449 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 20:16:43,258 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072016424624.txt
+--------------------------------------------------
+
+2024-11-07 20:16:43,542 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3824, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072016424624.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 20:19:41,945 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3824, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072016424624.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2545}]
+--------------------------------------------------
+
+2024-11-07 20:29:19,054 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:29:20,410 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:29:20,901 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 20:29:21,372 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072029209246.txt
+--------------------------------------------------
+
+2024-11-07 20:29:21,714 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3826, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072029209246.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 20:29:30,002 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3826, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072029209246.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2547}]
+--------------------------------------------------
+
+2024-11-07 20:40:19,679 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:40:20,884 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:40:22,205 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 20:40:22,758 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072040222138.txt
+--------------------------------------------------
+
+2024-11-07 20:40:23,157 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3827, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072040222138.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 20:40:26,629 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3827, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072040222138.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2548}]
+--------------------------------------------------
+
+2024-11-07 20:41:37,932 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:41:39,125 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 20:41:39,577 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 20:41:39,978 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072041395859.txt
+--------------------------------------------------
+
+2024-11-07 20:41:40,270 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3828, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072041395859.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 20:41:44,300 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3828, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072041395859.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2549}]
+--------------------------------------------------
+
+2024-11-07 21:14:05,316 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:14:06,532 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:14:07,107 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 21:14:37,272 - __main__ - INFO - Error Occured while renaming the file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672cd27cd81d12b5b1bdccaa, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-07 21:17:02,043 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:17:03,214 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:17:03,991 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 21:17:04,648 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072117040005.txt
+--------------------------------------------------
+
+2024-11-07 21:17:05,041 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3845, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072117040005.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 21:25:16,095 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 21:25:16,097 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 21:25:16,154 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 21:26:39,776 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:26:40,954 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:26:41,494 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 21:26:42,202 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072126415028.txt
+--------------------------------------------------
+
+2024-11-07 21:26:42,504 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3848, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072126415028.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 21:28:40,732 - __main__ - INFO - Successfully processed files: [{'_id': 3848, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072126415028.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2557}] for file type: 110
+--------------------------------------------------
+
+2024-11-07 21:32:16,632 - blob - INFO - Deleted local file: D:/io/DropFolder/WithHeader\110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:32:18,145 - __main__ - INFO - Starting rename_file for blob: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt
+--------------------------------------------------
+
+2024-11-07 21:32:19,095 - blob - INFO - Downloaded file 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 21:32:19,527 - __main__ - INFO - Renamed and uploaded file: 110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt to 110_TSI4758_UN03_202411072132191081.txt
+--------------------------------------------------
+
+2024-11-07 21:32:19,863 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3851, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '110UPSN_EBILL_TSI4758_20244260861_040924_6341908_1.txt', 'NewFileName': '110_TSI4758_UN03_202411072132191081.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-07 23:30:43,602 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:30:43,605 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:30:43,688 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 23:31:42,189 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:31:42,191 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:31:42,270 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 23:34:17,702 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:34:17,705 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:34:17,771 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 23:34:29,058 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UN03_TSI4758_110_20244260861_041224_6341914.csv
+--------------------------------------------------
+
+2024-11-07 23:34:31,287 - __main__ - INFO - Starting rename_file for blob: 6341914_041224.csv
+--------------------------------------------------
+
+2024-11-07 23:34:31,533 - blob - INFO - Downloaded file 6341914_041224.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-07 23:35:47,858 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:35:47,862 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-07 23:35:47,935 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-07 23:35:58,945 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UN03_TSI4758_110_20244260861_041224_6341914.csv
+--------------------------------------------------
+
+2024-11-08 02:41:15,499 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-08 02:41:15,501 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-08 02:41:15,558 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-08 02:41:26,634 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UN03_TSI4758_110_20244260861_041224_6341914.csv
+--------------------------------------------------
+
+2024-11-08 02:50:07,352 - __main__ - INFO - Starting rename_file for blob: 6341914_041224.csv
+--------------------------------------------------
+
+2024-11-08 02:50:07,656 - blob - INFO - Downloaded file 6341914_041224.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-08 02:50:46,113 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-08 02:50:46,116 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-08 02:50:46,168 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-08 02:52:09,128 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UN03_TSI4758_110_20244260861_041224_6341914.csv
+--------------------------------------------------
+
+2024-11-08 02:54:41,496 - __main__ - INFO - Starting rename_file for blob: 6341914_041224.csv
+--------------------------------------------------
+
+2024-11-08 02:54:41,747 - blob - INFO - Downloaded file 6341914_041224.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-08 02:55:41,932 - __main__ - INFO - Error Occured while renaming the file 6341914_041224.csv: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 672d2f2e34b30382ff44f4e8, topology_type: Unknown, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-08 02:56:54,051 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UN03_TSI4758_110_20244260861_041224_6341914.csv
+--------------------------------------------------
+
+2024-11-08 02:56:56,170 - __main__ - INFO - Starting rename_file for blob: 6341914_041224.csv
+--------------------------------------------------
+
+2024-11-08 02:56:56,406 - blob - INFO - Downloaded file 6341914_041224.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-08 02:56:56,990 - __main__ - INFO - Renamed and uploaded file: 6341914_041224.csv to 110_TSI4758_UN03_20244260861_202411080256564085.txt
+--------------------------------------------------
+
+2024-11-08 02:56:57,291 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3902, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '6341914_041224.csv', 'NewFileName': '110_TSI4758_UN03_20244260861_202411080256564085.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-08 02:57:29,051 - __main__ - INFO - Successfully processed files: [{'_id': 3902, 'CustomerId': 'TSI4758', 'CarrierId': 'UN03', 'OriginalFileName': '6341914_041224.csv', 'NewFileName': '110_TSI4758_UN03_20244260861_202411080256564085.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2592}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 14:56:06,496 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 14:56:06,497 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 14:56:06,566 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-10 15:06:29,724 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 15:06:29,727 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 15:06:29,801 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-10 15:49:19,752 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 15:49:19,754 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 15:49:19,840 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-10 15:49:33,678 - __main__ - INFO - Starting rename_file for blob: 102124 - Copy_835336911.csv
+--------------------------------------------------
+
+2024-11-10 15:49:33,692 - __main__ - INFO - Starting rename_file for blob: text file_102124.txt
+--------------------------------------------------
+
+2024-11-10 15:49:33,990 - blob - INFO - Downloaded file 102124 - Copy_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 15:49:34,825 - blob - INFO - Downloaded file text file_102124.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 15:50:04,339 - __main__ - INFO - Error Occured while renaming the file 102124 - Copy_835336911.csv: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 673088a73c1d1178978951df, topology_type: Unknown, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-10 15:50:05,321 - __main__ - INFO - Error Occured while renaming the file text file_102124.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 673088a73c1d1178978951df, topology_type: Unknown, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-10 15:51:17,499 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 15:51:19,503 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 15:51:19,744 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 15:51:20,793 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101551197731.txt
+--------------------------------------------------
+
+2024-11-10 15:51:21,087 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3993, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101551197731.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 15:51:27,141 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3993, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101551197731.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2645}]
+--------------------------------------------------
+
+2024-11-10 15:53:50,508 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 15:53:52,706 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 15:53:53,017 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 15:53:53,645 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101553530474.txt
+--------------------------------------------------
+
+2024-11-10 15:53:54,037 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3994, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101553530474.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 15:53:58,981 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 3994, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101553530474.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2646}]
+--------------------------------------------------
+
+2024-11-10 15:56:22,397 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 15:56:25,177 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 15:56:25,453 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 15:56:25,959 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101556254819.txt
+--------------------------------------------------
+
+2024-11-10 15:56:26,246 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3995, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101556254819.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 15:56:32,128 - __main__ - INFO - Successfully processed files: [{'_id': 3995, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101556254819.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2647}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 16:37:23,420 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 16:37:25,714 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 16:37:25,992 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 16:37:56,420 - __main__ - INFO - Error Occured while renaming the file 102124_835336911.csv: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 673088a73c1d1178978951df, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-10 16:39:08,468 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 16:39:10,559 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 16:39:10,837 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 16:39:11,654 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101639108676.txt
+--------------------------------------------------
+
+2024-11-10 16:39:12,063 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 3997, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101639108676.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 16:39:17,815 - __main__ - INFO - Successfully processed files: [{'_id': 3997, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101639108676.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2649}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:01:09,046 - __main__ - INFO - Starting rename_file for blob: 110624_100004834663.csv
+--------------------------------------------------
+
+2024-11-10 17:01:09,318 - __main__ - INFO - Error Occured while renaming the file 110624_100004834663.csv: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 177, in rename_file
+    raw_data = await download_blob(blob_service_client, with_header_container, blob_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\blob.py", line 183, in download_blob
+    stream = await blob_client.download_blob()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\azure\core\tracing\decorator_async.py", line 94, in wrapper_use_tracer
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\azure\storage\blob\aio\_blob_client_async.py", line 735, in download_blob
+    await downloader._setup()  # pylint: disable=protected-access
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\azure\storage\blob\aio\_download_async.py", line 328, in _setup
+    self._response = await self._initial_request()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\azure\storage\blob\aio\_download_async.py", line 410, in _initial_request
+    process_storage_error(error)
+  File "D:\venv\Lib\site-packages\azure\storage\blob\_shared\response_handlers.py", line 186, in process_storage_error
+    exec("raise error from None")   # pylint: disable=exec-used # nosec
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+  File "D:\venv\Lib\site-packages\azure\storage\blob\aio\_download_async.py", line 363, in _initial_request
+    location_mode, response = cast(Tuple[Optional[str], Any], await self._clients.blob.download(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\azure\core\tracing\decorator_async.py", line 94, in wrapper_use_tracer
+    return await func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\azure\storage\blob\_generated\aio\operations\_blob_operations.py", line 212, in download
+    map_error(status_code=response.status_code, response=response, error_map=error_map)
+  File "D:\venv\Lib\site-packages\azure\core\exceptions.py", line 161, in map_error
+    raise error
+azure.core.exceptions.ResourceNotFoundError: The specified blob does not exist.
+RequestId:1b8e54e6-401e-0014-0864-3337e4000000
+Time:2024-11-10T11:31:09.1793659Z
+ErrorCode:BlobNotFound
+Content: <?xml version="1.0" encoding="utf-8"?><Error><Code>BlobNotFound</Code><Message>The specified blob does not exist.
+RequestId:1b8e54e6-401e-0014-0864-3337e4000000
+Time:2024-11-10T11:31:09.1793659Z</Message></Error>
+
+--------------------------------------------------
+
+2024-11-10 17:08:23,120 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 17:08:25,277 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 17:08:25,595 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:08:26,207 - __main__ - INFO - Renamed and uploaded file: 100004686238_PH.csv to 110_INVUPS_UP38_PH_202411101708255984.txt
+--------------------------------------------------
+
+2024-11-10 17:08:26,507 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4001, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101708255984.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:08:28,623 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 4001, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101708255984.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2653}]
+--------------------------------------------------
+
+2024-11-10 17:12:05,377 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 17:12:07,737 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 17:12:08,084 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:12:08,769 - __main__ - INFO - Renamed and uploaded file: 100004686238_PH.csv to 110_INVUPS_UP38_PH_202411101712080868.txt
+--------------------------------------------------
+
+2024-11-10 17:12:09,207 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4002, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101712080868.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:12:15,853 - __main__ - INFO - Successfully processed files: [{'_id': 4002, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101712080868.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2654}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:14:39,673 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 17:14:42,145 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 17:14:42,459 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:14:43,071 - __main__ - INFO - Renamed and uploaded file: 100004686238_PH.csv to 110_INVUPS_UP38_PH_202411101714424614.txt
+--------------------------------------------------
+
+2024-11-10 17:14:43,407 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4003, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101714424614.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:14:50,111 - __main__ - INFO - Successfully processed files: [{'_id': 4003, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101714424614.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2655}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:18:26,252 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:18:28,423 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:18:28,728 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:18:29,357 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101718287779.txt
+--------------------------------------------------
+
+2024-11-10 17:18:29,753 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4004, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101718287779.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:18:32,087 - __main__ - ERROR - Error processing files: [{'_id': 4004, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101718287779.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2656}] for file type: 110: Cannot connect to host 127.0.0.1:8006 ssl:default [The remote computer refused the network connection]
+--------------------------------------------------
+
+2024-11-10 17:20:56,023 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:20:58,220 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:20:58,497 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:20:59,135 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101720585267.txt
+--------------------------------------------------
+
+2024-11-10 17:20:59,542 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4005, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101720585267.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:23:47,962 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 17:23:47,964 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 17:23:48,032 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-10 17:25:11,920 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:28:37,634 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:28:37,876 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:31:55,699 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101731534075.txt
+--------------------------------------------------
+
+2024-11-10 17:31:56,002 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4008, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101731534075.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:32:29,315 - __main__ - INFO - Successfully processed files: [{'_id': 4008, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101731534075.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2660}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:33:40,653 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:33:43,893 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:33:44,177 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:33:46,250 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101733456827.txt
+--------------------------------------------------
+
+2024-11-10 17:33:46,610 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4009, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101733456827.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:33:51,043 - __main__ - INFO - Successfully processed files: [{'_id': 4009, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101733456827.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2661}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:35:02,372 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:35:05,822 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:35:06,082 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:35:08,339 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101735075651.txt
+--------------------------------------------------
+
+2024-11-10 17:35:08,644 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4010, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101735075651.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:36:59,979 - __main__ - INFO - Successfully processed files: [{'_id': 4010, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101735075651.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2662}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:38:11,373 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:38:16,254 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:38:16,535 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:38:18,411 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101738178748.txt
+--------------------------------------------------
+
+2024-11-10 17:38:18,925 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4011, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101738178748.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:46:05,913 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 17:46:05,916 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-10 17:46:05,970 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-10 17:47:29,928 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:47:32,251 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:47:32,570 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:47:34,023 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101747325959.txt
+--------------------------------------------------
+
+2024-11-10 17:47:34,412 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4012, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101747325959.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:48:16,149 - __main__ - INFO - Successfully processed files: [{'_id': 4012, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101747325959.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2664}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:49:27,427 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 17:49:30,110 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 17:49:30,428 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:49:30,929 - __main__ - INFO - Renamed and uploaded file: 100004686238_PH.csv to 110_INVUPS_UP38_PH_202411101749304301.txt
+--------------------------------------------------
+
+2024-11-10 17:49:31,294 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4013, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101749304301.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:49:48,359 - __main__ - INFO - Successfully processed files: [{'_id': 4013, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101749304301.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2665}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:52:11,991 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:52:14,436 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:52:14,746 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:52:15,295 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101752147741.txt
+--------------------------------------------------
+
+2024-11-10 17:52:15,662 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4014, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101752147741.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:52:20,018 - __main__ - INFO - Successfully processed files: [{'_id': 4014, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101752147741.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2666}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:53:31,444 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5366_110_835336911_102124.csv
+--------------------------------------------------
+
+2024-11-10 17:53:33,691 - __main__ - INFO - Starting rename_file for blob: 102124_835336911.csv
+--------------------------------------------------
+
+2024-11-10 17:53:33,928 - blob - INFO - Downloaded file 102124_835336911.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:53:34,508 - __main__ - INFO - Renamed and uploaded file: 102124_835336911.csv to 110_TSI5366_UPS_835336911_202411101753339556.txt
+--------------------------------------------------
+
+2024-11-10 17:53:34,921 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4015, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101753339556.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:53:40,408 - __main__ - INFO - Successfully processed files: [{'_id': 4015, 'CustomerId': 'TSI5366', 'CarrierId': 'UPS', 'OriginalFileName': '102124_835336911.csv', 'NewFileName': '110_TSI5366_UPS_835336911_202411101753339556.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2667}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 17:54:51,561 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 17:54:53,771 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 17:54:54,012 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:54:54,591 - __main__ - INFO - Renamed and uploaded file: 100004686238_PH.csv to 110_INVUPS_UP38_PH_202411101754540145.txt
+--------------------------------------------------
+
+2024-11-10 17:54:55,086 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4016, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101754540145.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:55:08,894 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 4016, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101754540145.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2668}]
+--------------------------------------------------
+
+2024-11-10 17:57:32,807 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 17:57:35,077 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 17:57:35,359 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 17:57:35,998 - __main__ - INFO - Renamed and uploaded file: 100004686238_PH.csv to 110_INVUPS_UP38_PH_202411101757353605.txt
+--------------------------------------------------
+
+2024-11-10 17:57:36,382 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4017, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101757353605.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 17:57:46,960 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 4017, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101757353605.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2669}]
+--------------------------------------------------
+
+2024-11-10 18:00:10,781 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 18:00:13,313 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 18:00:13,660 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 18:00:14,486 - __main__ - INFO - Renamed and uploaded file: 100004686238_PH.csv to 110_INVUPS_UP38_PH_202411101800136629.txt
+--------------------------------------------------
+
+2024-11-10 18:00:14,878 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4018, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101800136629.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-10 18:00:20,569 - __main__ - INFO - Successfully processed files: [{'_id': 4018, 'CustomerId': 'INVUPS', 'CarrierId': 'UP38', 'OriginalFileName': '100004686238_PH.csv', 'NewFileName': '110_INVUPS_UP38_PH_202411101800136629.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2670}] for file type: 110
+--------------------------------------------------
+
+2024-11-10 18:52:17,639 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UP38_INVUPS_110_PH_100004686238.csv
+--------------------------------------------------
+
+2024-11-10 18:52:19,941 - __main__ - INFO - Starting rename_file for blob: 100004686238_PH.csv
+--------------------------------------------------
+
+2024-11-10 18:52:20,253 - blob - INFO - Downloaded file 100004686238_PH.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-10 18:52:50,382 - __main__ - INFO - Error Occured while renaming the file 100004686238_PH.csv: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6730a4050efe3e8c856b2f75, topology_type: Single, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-11 19:58:29,823 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 19:58:29,826 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 19:58:29,890 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-11 20:20:27,890 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 20:20:27,892 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 20:20:27,951 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-11 20:20:39,098 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5748_110_60471939_6467514.txt
+--------------------------------------------------
+
+2024-11-11 20:20:41,441 - __main__ - INFO - Starting rename_file for blob: 6467514_60471939.txt
+--------------------------------------------------
+
+2024-11-11 20:20:41,728 - blob - INFO - Downloaded file 6467514_60471939.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-11 20:21:11,976 - __main__ - INFO - Error Occured while renaming the file 6467514_60471939.txt: Traceback (most recent call last):
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 213, in rename_file
+    filelog_id = await get_next_sequence_value("FileLog")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\FlatFileMigration\scheduler\scheduler.py", line 157, in get_next_sequence_value
+    await counters.update_one(
+  File "C:\Users\shahnawazs\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 1077, in update_one
+    self._update_retryable(
+  File "D:\venv\Lib\site-packages\pymongo\collection.py", line 872, in _update_retryable
+    return self.__database.client._retryable_write(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1575, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1461, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\_csot.py", line 108, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1507, in _retry_internal
+    ).run()
+      ^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2353, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2456, in _write
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 2439, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\mongo_client.py", line 1322, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 368, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 346, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 253, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\venv\Lib\site-packages\pymongo\topology.py", line 303, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: 192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 673219b3fe969168ded493b0, topology_type: Unknown, servers: [<ServerDescription ('192.168.0.73', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('192.168.0.73:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+--------------------------------------------------
+
+2024-11-11 20:22:27,617 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 20:22:27,620 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 20:22:27,674 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-11 20:22:38,824 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5748_110_60471939_6467514.txt
+--------------------------------------------------
+
+2024-11-11 20:22:41,069 - __main__ - INFO - Starting rename_file for blob: 6467514_60471939.txt
+--------------------------------------------------
+
+2024-11-11 20:22:41,340 - blob - INFO - Downloaded file 6467514_60471939.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-11 20:22:42,021 - __main__ - INFO - Renamed and uploaded file: 6467514_60471939.txt to 110_TSI5748_UPS_60471939_202411112022413421.txt
+--------------------------------------------------
+
+2024-11-11 20:22:42,347 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4091, 'CustomerId': 'TSI5748', 'CarrierId': 'UPS', 'OriginalFileName': '6467514_60471939.txt', 'NewFileName': '110_TSI5748_UPS_60471939_202411112022413421.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-11 20:22:45,877 - __main__ - ERROR - Failed API call with response code 500 for file type: 110 and files: [{'_id': 4091, 'CustomerId': 'TSI5748', 'CarrierId': 'UPS', 'OriginalFileName': '6467514_60471939.txt', 'NewFileName': '110_TSI5748_UPS_60471939_202411112022413421.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2710}]
+--------------------------------------------------
+
+2024-11-11 20:25:09,235 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5748_110_60471939_6467514.txt
+--------------------------------------------------
+
+2024-11-11 20:25:11,252 - __main__ - INFO - Starting rename_file for blob: 6467514_60471939.txt
+--------------------------------------------------
+
+2024-11-11 20:25:11,505 - blob - INFO - Downloaded file 6467514_60471939.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-11 20:25:11,920 - __main__ - INFO - Renamed and uploaded file: 6467514_60471939.txt to 110_TSI5748_UPS_60471939_202411112025115069.txt
+--------------------------------------------------
+
+2024-11-11 20:25:12,230 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4092, 'CustomerId': 'TSI5748', 'CarrierId': 'UPS', 'OriginalFileName': '6467514_60471939.txt', 'NewFileName': '110_TSI5748_UPS_60471939_202411112025115069.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-11 20:25:16,843 - __main__ - INFO - Successfully processed files: [{'_id': 4092, 'CustomerId': 'TSI5748', 'CarrierId': 'UPS', 'OriginalFileName': '6467514_60471939.txt', 'NewFileName': '110_TSI5748_UPS_60471939_202411112025115069.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2711}] for file type: 110
+--------------------------------------------------
+
+2024-11-11 20:32:41,185 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5748_110_60471939_6467514.txt
+--------------------------------------------------
+
+2024-11-11 20:32:43,615 - __main__ - INFO - Starting rename_file for blob: 6467514_60471939.txt
+--------------------------------------------------
+
+2024-11-11 20:32:44,021 - blob - INFO - Downloaded file 6467514_60471939.txt from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-11 20:32:44,510 - __main__ - INFO - Renamed and uploaded file: 6467514_60471939.txt to 110_TSI5748_UPS_60471939_202411112032440233.txt
+--------------------------------------------------
+
+2024-11-11 20:32:44,958 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4093, 'CustomerId': 'TSI5748', 'CarrierId': 'UPS', 'OriginalFileName': '6467514_60471939.txt', 'NewFileName': '110_TSI5748_UPS_60471939_202411112032440233.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-11 21:07:45,916 - blob - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 21:07:45,918 - __main__ - INFO - Configuration loaded successfully
+--------------------------------------------------
+
+2024-11-11 21:07:46,013 - __main__ - INFO - Connected to MongoDB
+--------------------------------------------------
+
+2024-11-11 21:07:57,639 - blob - INFO - Deleted local file: D:/io/DropFolder/WithoutHeader\UPS_TSI5748_110_20244816947.csv
+--------------------------------------------------
+
+2024-11-11 21:08:01,398 - __main__ - INFO - Starting rename_file for blob: 20244816947_110.csv
+--------------------------------------------------
+
+2024-11-11 21:08:02,540 - blob - INFO - Downloaded file 20244816947_110.csv from qaediflatfilewithheader
+--------------------------------------------------
+
+2024-11-11 21:08:04,334 - __main__ - INFO - Renamed and uploaded file: 20244816947_110.csv to 110_TSI5748_UPS_20244816947_202411112108025412.txt
+--------------------------------------------------
+
+2024-11-11 21:08:04,907 - __main__ - INFO - Starting process_files_group with files: {'110': [{'_id': 4094, 'CustomerId': 'TSI5748', 'CarrierId': 'UPS', 'OriginalFileName': '20244816947_110.csv', 'NewFileName': '110_TSI5748_UPS_20244816947_202411112108025412.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}]}
+--------------------------------------------------
+
+2024-11-11 21:09:42,300 - __main__ - INFO - Successfully processed files: [{'_id': 4094, 'CustomerId': 'TSI5748', 'CarrierId': 'UPS', 'OriginalFileName': '20244816947_110.csv', 'NewFileName': '110_TSI5748_UPS_20244816947_202411112108025412.txt', 'Status': 0, 'FileType': '110', 'OutputFileName': ''}, {'JobDetailID': 2713}] for file type: 110
+--------------------------------------------------
+
